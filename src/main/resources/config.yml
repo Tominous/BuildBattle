@@ -18,12 +18,12 @@
 locale: default
 
 # Enable boss bar for the game?
-Boss-Bar-Enabled: false
+Boss-Bar-Enabled: true
 
 # Should we hook into bungee cord? (If you wanna use arena per server option)
 # You STILL need to use external addon for HUB server game signs
-# Check here for more info: https://wiki.plajer.xyz/minecraft/buildbattle/addons.php#bungee-signs-not-official
-BungeeActivated: false
+# Check here for more information: https://wiki.plajer.xyz/minecraft/buildbattle/addons.php#bungee-signs-not-official
+BungeeActivated: true
 
 # Enable Inventory Manager for your games? (VERY USEFUL feature for MULTI ARENA)
 # This saves inventory of players and restores it after player leaves arena.
@@ -173,10 +173,10 @@ Update-Notifier:
   Notify-Beta-Versions: true
 
 # Disable or enable MySQL database here, see mysql.yml for more
-DatabaseActivated: false
+DatabaseActivated: true
 
 # Should plugin send 'debug spam' to console? IT CAN HELP IF YOU OCCUR SOME WEIRD BEHAVIOUR FROM PLUGIN
-Debug: false
+Debug: true
 
 # Don't modify.
 Version: 5
